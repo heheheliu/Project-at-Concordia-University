@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/3Sum/3Sum.iml" filepath="$PROJECT_DIR$/3Sum/3Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Add Two Numbers/Add Two Numbers.iml" filepath="$PROJECT_DIR$/Add Two Numbers/Add Two Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Add Two Numbers II/Add Two Numbers II.iml" filepath="$PROJECT_DIR$/Add Two Numbers II/Add Two Numbers II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AddBinary/AddBinary.iml" filepath="$PROJECT_DIR$/AddBinary/AddBinary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AsFarfromLandasPossible/AsFarfromLandasPossible.iml" filepath="$PROJECT_DIR$/AsFarfromLandasPossible/AsFarfromLandasPossible.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Backspace String Compare/Backspace String Compare.iml" filepath="$PROJECT_DIR$/Backspace String Compare/Backspace String Compare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BalancedBinaryTree/BalancedBinaryTree.iml" filepath="$PROJECT_DIR$/BalancedBinaryTree/BalancedBinaryTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Tree Right Side View/Binary Tree Inorder Traversal.iml" filepath="$PROJECT_DIR$/Binary Tree Right Side View/Binary Tree Inorder Traversal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Tree Postorder Traversal/Binary Tree Postorder Traversal.iml" filepath="$PROJECT_DIR$/Binary Tree Postorder Traversal/Binary Tree Postorder Traversal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Tree Preorder Traversal/Binary Tree Preorder Traversal.iml" filepath="$PROJECT_DIR$/Binary Tree Preorder Traversal/Binary Tree Preorder Traversal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Tree Pruning/Binary Tree Pruning.iml" filepath="$PROJECT_DIR$/Binary Tree Pruning/Binary Tree Pruning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Tree Right Side View/Binary Tree Right Side View.iml" filepath="$PROJECT_DIR$/Binary Tree Right Side View/Binary Tree Right Side View.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinarySearch.iml" filepath="$PROJECT_DIR$/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinaryTreeLevelOrderTraversal/BinaryTreeInOrderTraversal.iml" filepath="$PROJECT_DIR$/BinaryTreeLevelOrderTraversal/BinaryTreeInOrderTraversal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinaryTreeInorderTraversal/BinaryTreeInorderTraversal.iml" filepath="$PROJECT_DIR$/BinaryTreeInorderTraversal/BinaryTreeInorderTraversal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal.iml" filepath="$PROJECT_DIR$/BinaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Book/Book.iml" filepath="$PROJECT_DIR$/Book/Book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClimbingStairs/ClimbingStairs.iml" filepath="$PROJECT_DIR$/ClimbingStairs/ClimbingStairs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CloneGraph/CloneGraph.iml" filepath="$PROJECT_DIR$/CloneGraph/CloneGraph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CoinChange/CoinChange.iml" filepath="$PROJECT_DIR$/CoinChange/CoinChange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Combination/Combination.iml" filepath="$PROJECT_DIR$/Combination/Combination.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CombinationSum/CombinationSum.iml" filepath="$PROJECT_DIR$/CombinationSum/CombinationSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CombinationSumII/CombinationSumII.iml" filepath="$PROJECT_DIR$/CombinationSumII/CombinationSumII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Convert Sorted Array to Binary Search Tree/Convert Sorted Array to Binary Search Tree.iml" filepath="$PROJECT_DIR$/Convert Sorted Array to Binary Search Tree/Convert Sorted Array to Binary Search Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Copy List with Random Pointer/Copy List with Random Pointer.iml" filepath="$PROJECT_DIR$/Copy List with Random Pointer/Copy List with Random Pointer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Counting Bits/Counting Bits.iml" filepath="$PROJECT_DIR$/Counting Bits/Counting Bits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CourseSchedule/CourseSchedule.iml" filepath="$PROJECT_DIR$/CourseSchedule/CourseSchedule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Detect Capital/Detect Capital.iml" filepath="$PROJECT_DIR$/Detect Capital/Detect Capital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Diameter of Binary Tree/Diameter of Binary Tree.iml" filepath="$PROJECT_DIR$/Diameter of Binary Tree/Diameter of Binary Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EvaluateReversePolishNotation/EvaluateReversePolishNotation.iml" filepath="$PROJECT_DIR$/EvaluateReversePolishNotation/EvaluateReversePolishNotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExcelSheetColumnTitle/ExcelSheetColumnTitle.iml" filepath="$PROJECT_DIR$/ExcelSheetColumnTitle/ExcelSheetColumnTitle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Find Minimum in Rotated Sorted Array/Find Minimum in Rotated Sorted Array.iml" filepath="$PROJECT_DIR$/Find Minimum in Rotated Sorted Array/Find Minimum in Rotated Sorted Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FindClosestToZero/FindClosestToZero.iml" filepath="$PROJECT_DIR$/FindClosestToZero/FindClosestToZero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FindSmallestInterval/FindSmallestInterval.iml" filepath="$PROJECT_DIR$/FindSmallestInterval/FindSmallestInterval.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstBadVersion/FirstBadVersion.iml" filepath="$PROJECT_DIR$/FirstBadVersion/FirstBadVersion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Flipping an Image/Flipping an Image.iml" filepath="$PROJECT_DIR$/Flipping an Image/Flipping an Image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FloodFill/FloodFill.iml" filepath="$PROJECT_DIR$/FloodFill/FloodFill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImplementQueueUsingStacks/ImplementQueueUsingStacks.iml" filepath="$PROJECT_DIR$/ImplementQueueUsingStacks/ImplementQueueUsingStacks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImplementStrStr()/ImplementStrStr().iml" filepath="$PROJECT_DIR$/ImplementStrStr()/ImplementStrStr().iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImplimentTrie(PrefixTree)/ImplimentTrie(PrefixTree).iml" filepath="$PROJECT_DIR$/ImplimentTrie(PrefixTree)/ImplimentTrie(PrefixTree).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Insert Sort/Insert Sort.iml" filepath="$PROJECT_DIR$/Insert Sort/Insert Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Insert into a Binary Search Tree/Insert into a Binary Search Tree.iml" filepath="$PROJECT_DIR$/Insert into a Binary Search Tree/Insert into a Binary Search Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InsertInterval/InsertInterval.iml" filepath="$PROJECT_DIR$/InsertInterval/InsertInterval.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Combination/src/Insertion SortI.iml" filepath="$PROJECT_DIR$/Combination/src/Insertion SortI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Invert_Binary_Tree/src/Invert_Binary_Tree.iml" filepath="$PROJECT_DIR$/../Invert_Binary_Tree/src/Invert_Binary_Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KClosestPoints/KClosestPoints.iml" filepath="$PROJECT_DIR$/KClosestPoints/KClosestPoints.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Keys and Rooms/Keys and Rooms.iml" filepath="$PROJECT_DIR$/Keys and Rooms/Keys and Rooms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SearchRotatedSortedArray/LengthOfLastWord.iml" filepath="$PROJECT_DIR$/SearchRotatedSortedArray/LengthOfLastWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LengthofLastWord/LengthofLastWord.iml" filepath="$PROJECT_DIR$/LengthofLastWord/LengthofLastWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedListCycle/LinkedListCycle.iml" filepath="$PROJECT_DIR$/LinkedListCycle/LinkedListCycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LongestCommonPrefix/LongestCommonPrefix.iml" filepath="$PROJECT_DIR$/LongestCommonPrefix/LongestCommonPrefix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LongestPalindrome/LongestPalindrome.iml" filepath="$PROJECT_DIR$/LongestPalindrome/LongestPalindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LongestSubstringWithoutRepeatingChar/LongestSubstringWithoutRepeatingChar.iml" filepath="$PROJECT_DIR$/LongestSubstringWithoutRepeatingChar/LongestSubstringWithoutRepeatingChar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LowestCommonAncestor/LowestCommonAncestor.iml" filepath="$PROJECT_DIR$/LowestCommonAncestor/LowestCommonAncestor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LowestCommonAncestorofBinaryTree/LowestCommonAncestorofBinaryTree.iml" filepath="$PROJECT_DIR$/LowestCommonAncestorofBinaryTree/LowestCommonAncestorofBinaryTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MajorityElement/MajorityElement.iml" filepath="$PROJECT_DIR$/MajorityElement/MajorityElement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Matrix01/Matrix01.iml" filepath="$PROJECT_DIR$/Matrix01/Matrix01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaxAreaIsland/MaxAreaIsland.iml" filepath="$PROJECT_DIR$/MaxAreaIsland/MaxAreaIsland.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaximumSubarray/MaximumSubarray.iml" filepath="$PROJECT_DIR$/MaximumSubarray/MaximumSubarray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MergeIntervals/MergeIntervals.iml" filepath="$PROJECT_DIR$/MergeIntervals/MergeIntervals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MergeSortedArray/MergeSortedArray.iml" filepath="$PROJECT_DIR$/MergeSortedArray/MergeSortedArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Middle of the Linked List/Middle of the Linked List.iml" filepath="$PROJECT_DIR$/Middle of the Linked List/Middle of the Linked List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinStack/MinStack.iml" filepath="$PROJECT_DIR$/MinStack/MinStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Missing Number/Missing Number.iml" filepath="$PROJECT_DIR$/Missing Number/Missing Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MoveZeros/MoveZeros.iml" filepath="$PROJECT_DIR$/MoveZeros/MoveZeros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/N-ary Tree Level Order Traversal/N-ary Tree Level Order Traversal.iml" filepath="$PROJECT_DIR$/N-ary Tree Level Order Traversal/N-ary Tree Level Order Traversal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Number of Provinces/Number of Provinces.iml" filepath="$PROJECT_DIR$/Number of Provinces/Number of Provinces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumberOf1bits/NumberOf1bits.iml" filepath="$PROJECT_DIR$/NumberOf1bits/NumberOf1bits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumberofIslands/NumberofIslands.iml" filepath="$PROJECT_DIR$/NumberofIslands/NumberofIslands.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palindrome Linked List/Palindrome Linked List.iml" filepath="$PROJECT_DIR$/Palindrome Linked List/Palindrome Linked List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PathSum/PathSum.iml" filepath="$PROJECT_DIR$/PathSum/PathSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PathSumII/PathSumII.iml" filepath="$PROJECT_DIR$/PathSumII/PathSumII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Permutation/Permutation.iml" filepath="$PROJECT_DIR$/Permutation/Permutation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PermutationSequence/PermutationSequence.iml" filepath="$PROJECT_DIR$/PermutationSequence/PermutationSequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Permutatio——II/Permutatio——II.iml" filepath="$PROJECT_DIR$/Permutatio——II/Permutatio——II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlusOne/PlusOne.iml" filepath="$PROJECT_DIR$/PlusOne/PlusOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProductofArrayExceptSelf/ProductofArrayExceptSelf.iml" filepath="$PROJECT_DIR$/ProductofArrayExceptSelf/ProductofArrayExceptSelf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RansomNote/RansomNote.iml" filepath="$PROJECT_DIR$/RansomNote/RansomNote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reverse Vowels of a String/Reverse Vowels of a String.iml" filepath="$PROJECT_DIR$/Reverse Vowels of a String/Reverse Vowels of a String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reverse Words in a String III/Reverse Words in a String III.iml" filepath="$PROJECT_DIR$/Reverse Words in a String III/Reverse Words in a String III.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReverseLinkedList/ReverseLinkedList.iml" filepath="$PROJECT_DIR$/ReverseLinkedList/ReverseLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RottingOranges/RottingOranges.iml" filepath="$PROJECT_DIR$/RottingOranges/RottingOranges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SearchInsertPosition/SearchInsertPosition.iml" filepath="$PROJECT_DIR$/SearchInsertPosition/SearchInsertPosition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SearchRotatedSortedArray/SearchRotatedSortedArray.iml" filepath="$PROJECT_DIR$/SearchRotatedSortedArray/SearchRotatedSortedArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SearchinaBinarySearchTree/SearchinaBinarySearchTree.iml" filepath="$PROJECT_DIR$/SearchinaBinarySearchTree/SearchinaBinarySearchTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Single Number/Single Number.iml" filepath="$PROJECT_DIR$/Single Number/Single Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Squaresof aSortedArray/Squaresof aSortedArray.iml" filepath="$PROJECT_DIR$/Squaresof aSortedArray/Squaresof aSortedArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Subarray Sum Equals K/Subarray Sum Equals K.iml" filepath="$PROJECT_DIR$/Subarray Sum Equals K/Subarray Sum Equals K.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SubsetII/SubsetII.iml" filepath="$PROJECT_DIR$/SubsetII/SubsetII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Subsets/Subsets.iml" filepath="$PROJECT_DIR$/Subsets/Subsets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Subtree of Another Tree/Subtree of Another Tree.iml" filepath="$PROJECT_DIR$/Subtree of Another Tree/Subtree of Another Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Swap Nodes in Pairs/Swap Nodes in Pairs.iml" filepath="$PROJECT_DIR$/Swap Nodes in Pairs/Swap Nodes in Pairs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Symmetric tree/Symmetric tree.iml" filepath="$PROJECT_DIR$/Symmetric tree/Symmetric tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TimeBasedKey-ValueStore/TimeBasedKey-ValueStore.iml" filepath="$PROJECT_DIR$/TimeBasedKey-ValueStore/TimeBasedKey-ValueStore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumberofIslands/Transpose Matrix.iml" filepath="$PROJECT_DIR$/NumberofIslands/Transpose Matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TransposeMatrix/TransposeMatrix.iml" filepath="$PROJECT_DIR$/TransposeMatrix/TransposeMatrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trim a Binary Search Tree/Trim a Binary Search Tree.iml" filepath="$PROJECT_DIR$/Trim a Binary Search Tree/Trim a Binary Search Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Univalued Binary Tree/Univalued Binary Tree.iml" filepath="$PROJECT_DIR$/Univalued Binary Tree/Univalued Binary Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ValidateBinarySearchTree/ValidateBinarySearchTree.iml" filepath="$PROJECT_DIR$/ValidateBinarySearchTree/ValidateBinarySearchTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WordBreak/WordBreak.iml" filepath="$PROJECT_DIR$/WordBreak/WordBreak.iml" />
+      <module fileurl="file://$PROJECT_DIR$/removeDuplicatesfromSortedArray/removeDuplicatesfromSortedArray.iml" filepath="$PROJECT_DIR$/removeDuplicatesfromSortedArray/removeDuplicatesfromSortedArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/removeElement/removeElement.iml" filepath="$PROJECT_DIR$/removeElement/removeElement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/removeSpacesAndDuplicatedChars/removeSpacesAndDuplicatedChars.iml" filepath="$PROJECT_DIR$/removeSpacesAndDuplicatedChars/removeSpacesAndDuplicatedChars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test1/test1.iml" filepath="$PROJECT_DIR$/test1/test1.iml" />
+    </modules>
+  </component>
+</project>
